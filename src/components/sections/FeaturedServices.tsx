@@ -2,7 +2,7 @@ import React from 'react';
 import AnimationWrapper from '../Animations/animations';
 import Image from 'next/image';
 import Featured1 from "@/asssts/img/featured/Bridal.jpg"
-import Featured2 from "@/asssts/img/featured/Facial.jpg"
+import Featured2 from "@/asssts/img/featured/facial.jpg"
 import Featured3 from "@/asssts/img/featured/Hair_coloue.jpg"
 import Featured4 from "@/asssts/img/featured/Nail.jpg"
 import Featured5 from "@/asssts/img/featured/Makeup.jpg"
